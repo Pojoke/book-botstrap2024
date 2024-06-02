@@ -1,0 +1,55 @@
+.navbar {
+    background-color: #2E3A59 !important
+}
+
+.paragraph {
+    margin-top: 20px;
+    margin-bottom: 30px;
+   
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: #FFB400;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.btn:hover {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: #465887;
+    color: #FFB400;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+h1, h2,h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+
+}
+.golov{
+    background-color: #fff;
+margin-top: 40px;
+}
+.golovparagraf{
+color: #465887;
+}
+.pro-nas{
+    color: #2E3A59;
+}
