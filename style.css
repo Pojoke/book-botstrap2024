@@ -34,6 +34,7 @@
 h1, h2,h3 {
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
+    color: white;
 
 
 }
@@ -52,4 +53,7 @@ color: #465887;
 }
 .pro-nas{
     color: #2E3A59;
+}
+.novinki{
+    text-align: center;
 }
